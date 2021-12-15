@@ -1,0 +1,32 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: lightcoral;
+}
+li {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    border: solid black 1px;
+    background-color: whitesmoke;
+    max-width: 50%;
+    border-radius: 10px;
+    font-weight: bold;
+    
+}
+#pushButton{
+    width: 60px;
+    height: 30px;
+    margin-left: 10px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+form {
+    display:flex;
+    justify-content: center;
+
+}
+#textInput{
+    border-radius: 5px;
+}
